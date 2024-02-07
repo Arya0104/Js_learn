@@ -1,0 +1,28 @@
+
+.myLabel{
+  display: block;
+  text-align: center;
+  font-size: 7em;
+  font-family: Arial, Helvetica, sans-serif;
+  cursor: not-allowed ;
+}
+.myBtns{
+  font-size: 1em;
+  padding: 12px 24px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color: rgb(15, 73, 109);
+  color: rgb(207, 231, 221);
+  margin: 4px;
+  cursor: pointer;
+  transition: background-color 0s;
+  
+}
+.myBtns:hover{
+  background-color: rgb(70, 20, 53);
+}
+
+#groupBtns{
+  text-align: center;
+  animation-direction: reverse;
+}
+
